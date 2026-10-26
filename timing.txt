@@ -1,0 +1,11 @@
+start 2026-10-26 22:25:22 CST
+slug ai-sheet-music-transcription
+name AI扒谱
+kw expand attempt 1 2026-10-26 22:25:22 CST
+kw expand done 2026-10-26 22:29:04 CST
+serp start 2026-10-26 22:29:04 CST
+serp done ec=0 2026-10-27 00:33:21 CST
+report start 2026-10-27 00:33:21 CST
+report end 2026-10-27 00:52:00 CST
+report end 2026-10-27 00:52:14 CST 用时 18 分钟
+done ai-sheet-music-transcription 2026-10-27 00:52:14 CST
